@@ -4,3 +4,4 @@ redis:6.2.6
 mysql:8.0.35
 openjdk:8-alpine
 ubuntu:latest
+mobiledevops/android-sdk-image:latest
