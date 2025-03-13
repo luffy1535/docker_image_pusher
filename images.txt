@@ -5,3 +5,4 @@ mysql:8.0.35
 openjdk:8-alpine
 ubuntu:latest
 mobiledevops/android-sdk-image:latest
+rabbitmq:management
