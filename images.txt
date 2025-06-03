@@ -6,3 +6,4 @@ openjdk:8-alpine
 ubuntu:latest
 mobiledevops/android-sdk-image:latest
 rabbitmq:management
+elasticsearch:8.10.4
